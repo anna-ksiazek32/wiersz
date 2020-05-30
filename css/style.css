@@ -1,13 +1,18 @@
 /* General */
 
+body h1 {
+	color: #073323;
+	font-size: 32px;
+	margin-left: 10px;
+}
 body p {
-	color: #0033cc;
+	color: #009966;
 	font-size: 16px; 
 	margin-left: 10px;  
 }
 
-body h1 {
-	color: #009966;
-	font-size: 32px;
-	margin-left: 10px;
+p:first-of-type {
+	font-style: italic;	
+	color: #073323;
 }
+
