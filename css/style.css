@@ -1,3 +1,13 @@
-h1 {
-	font-color: #990066;
+/* General */
+
+body p {
+	color: #0033cc;
+	font-size: 16px; 
+	margin-left: 10px;  
+}
+
+body h1 {
+	color: #009966;
+	font-size: 32px;
+	margin-left: 10px;
 }
